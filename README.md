@@ -6,13 +6,6 @@
 
 ---
 
-### Work Experience
-
-- [2025-2026] **AI Algorithm Engineer** | **LiAuto**
-  Focused on `Embodied VLA` and `Autonomous Driving`.
-
----
-
 ### Recent News
 - 🔮 [2026.7] I led [**FoMoVLA**](https://liauto-research.github.io/LightVLA/), a training-only framework bridging visual foresight and motion grounding for VLAs. Work with [Wei Li](https://github.com/ailiwei17), [Peijin](https://github.com/PeggyPeppa), [Xuefeng](https://github.com/Sprinter1999) and [Titong](https://github.com/Promisery).
 
