@@ -15,4 +15,4 @@
 
 ### Contact
 
-[yma020178@gmail.com](mailto:yma020178@gmail.com) | [Google Scholar](https://scholar.google.com/citations?user=pNCJBfgAAAAJ&hl=en) | [小红书](https://xhslink.com/m/5UWwXDcbcUs) | [X](https://x.com/mayuan0602)
+[yma020178@gmail.com](mailto:yma020178@gmail.com)
