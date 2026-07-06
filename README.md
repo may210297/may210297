@@ -1,7 +1,6 @@
 # Hi there 👋
 
-- I'm **Yuan Ma (马源)**, an AI Explorer working on `Embodied AI`.
-- I received my M.S. from the **School of Vehicle and Mobility, Tsinghua University** (2022–2025), and my B.E. from **Tongji University** (2022).
+- I'm **Yuan Ma (马源)**, an AI Explorer working on `Embodied AI`. I received my M.S. from the **School of Vehicle and Mobility, Tsinghua University** (2022–2025), and my B.E. from **Tongji University** (2022).
 - My research interests mainly include `Efficient LLM`, `Embodied VLA`, `World Models`, and `3D Vision for Robotics`.
 - Driven by real-world challenges in Embodied AI, I am dedicated to integrating R&D to build highly efficient and generalizable AI systems.
 
