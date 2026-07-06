@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- I'm **Yuan Ma (马源)**, a AI learner working on `Embodied AI` and `Efficient LLMs`.
+- I'm **Yuan Ma (马源)**, an AI learner working on `Embodied AI` and `Efficient LLMs`.
 - I received my M.S. from the **School of Vehicle and Mobility, Tsinghua University** (2022–2025), and my B.E. from **Tongji University** (2022).
 - My research interests mainly include `Efficient LLM`, `Embodied VLA`, `World Models`, and `3D Vision for Robotics`.
 - Driven by real-world challenges in Embodied AI, I am dedicated to integrating R&D to build highly efficient and generalizable AI systems.
@@ -21,6 +21,6 @@
 
 ---
 
-### 📬 Contact
+### Contact
 
 [yma020178@gmail.com](mailto:yma020178@gmail.com) | [Google Scholar](https://scholar.google.com/citations?user=pNCJBfgAAAAJ&hl=en) | [GitHub](https://github.com/may210297) | [小红书](https://xhslink.com/m/5UWwXDcbcUs)
