@@ -11,6 +11,6 @@ My research focuses on `Efficient LLM`, `Embodied VLA`, `World Models`, and `3D 
 
 ### 📰 News
 
-- 🔮 **[Jul 2026]** I led [**FoMoVLA**](https://liauto-research.github.io/LightVLA/), a training-only framework bridging visual foresight and motion grounding for VLAs. Joint work with [Wei Li](https://github.com/ailiwei17), [Peijin](https://peggypeppa.github.io), [Xuefeng](https://github.com/Sprinter1999), and [Titong](https://github.com/Promisery).
+- 🔮 **[Jul 2026]** I led [**FoMoVLA**](https://liauto-research.github.io/LightVLA/), a training-only framework bridging visual foresight and motion grounding for VLAs. Joint work with [Wei Li](https://github.com/ailiwei17), [Peijin](https://peggypeppa.github.io), [Xuefeng](https://github.com/Sprinter1999).
 
 - 🚀 **[Sep 2025]** I led [**LightVLA**](https://liauto-research.github.io/LightVLA/), a training-aware pruning strategy that jointly optimizes efficiency and performance. Joint work with [Xuefeng](https://github.com/Sprinter1999) and [Titong](https://github.com/Promisery).
